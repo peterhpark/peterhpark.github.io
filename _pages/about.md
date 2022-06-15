@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Intro"
+excerpt: "Intro"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to the personal webpage of Hyoungjun "Peter" Park!
+Welcome to the personal webpage of Hyoungjun "Peter" Park! 
 
 What drives me
 ======
