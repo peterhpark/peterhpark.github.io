@@ -18,4 +18,7 @@ which significantly improves the robustness and efficiency of network training. 
 is indeed a dual formulation of an optimal transport problem that uses a special form of the penalized least squares cost 
 as a transport cost. Experimental results using simulated and real experimental data confirm the efficacy of the algorithm.
 
+![img1](../images/ieee_tci_1.jpeg)
+![img2](../images/ieee_tci_2.jpeg)
+
 [Download paper here](https://ieeexplore.ieee.org/document/9136890)
