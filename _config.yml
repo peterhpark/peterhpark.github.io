@@ -11,7 +11,7 @@ title                    : "Peter Park's personal webpage"
 title_separator          : "-"
 name                     : &name "Peter Park"
 description              : &description "personal webpage of Peter Park"
-url                      : https://peterhpark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://peterhpark.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "peterhpark/peterhpark.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://twitter.com/peterpark828"
+  github           : "https://github.com/peterhpark"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/peterpark828"
   vine             :
   weibo            :
   xing             :
