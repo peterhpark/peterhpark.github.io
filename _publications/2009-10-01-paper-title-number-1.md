@@ -3,7 +3,7 @@ title: "Deep learning enables reference-free isotropic super-resolution for volu
 collection: publications
 permalink: /publication/park2022naturecomm
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 08 June 2022
+date: 2022-06-08
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-022-30949-6'
 ---
