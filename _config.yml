@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peter Park's personal webpage"
+title                    : "Peter's World"
 title_separator          : "-"
 name                     : &name "Peter Park"
 description              : &description "personal webpage for Peter Park"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hyoungjun Peter Park"
+  name             : "Hyoungjun \"Peter\" Park"
   avatar           : "profile.png"
   bio              : "I am a neuroscientist who loves AI-powered solutions for bio-imaging."
   location         : "Daejeon, South Korea"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/peterhpark"
+  github           : "peterhpark"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/peterpark828"
+  twitter          : "peterpark828"
   vine             :
   weibo            :
   xing             :
