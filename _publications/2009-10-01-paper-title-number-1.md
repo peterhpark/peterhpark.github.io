@@ -1,15 +1,22 @@
 ---
-title: "Paper Title Number 1"
+title: "Deep learning enables reference-free isotropic super-resolution for volumetric fluorescence microscopy"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/park2022naturecomm
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 08 June 2022
+venue: 'Nature Communications'
+paperurl: 'https://www.nature.com/articles/s41467-022-30949-6'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Volumetric imaging by fluorescence microscopy is often limited by anisotropic spatial resolution, in which the axial 
+resolution is inferior to the lateral resolution. To address this problem, we present a deep-learning-enabled unsupervised 
+super-resolution technique that enhances anisotropic images in volumetric fluorescence microscopy. In contrast to the 
+existing deep learning approaches that require matched high-resolution target images, our method greatly reduces the 
+effort to be put into practice as the training of a network requires only a single 3D image stack, without a priori 
+knowledge of the image formation process, registration of training data, or separate acquisition of target data. This 
+is achieved based on the optimal transport-driven cycle-consistent generative adversarial network that learns from an 
+unpaired matching between high-resolution 2D images in the lateral image plane and low-resolution 2D images in other 
+planes. Using fluorescence confocal microscopy and light-sheet microscopy, we demonstrate that the trained network 
+not only enhances axial resolution but also restores suppressed visual details between the imaging planes and removes 
+imaging artifacts.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://www.nature.com/articles/s41467-022-30949-6)
