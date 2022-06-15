@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-Please click here for my CV.
+To view my CV, please click [here](http://peterhpark.github.io/files/Park_cv.pdf).
