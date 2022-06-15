@@ -22,7 +22,7 @@ method to achieve isotropic resolution for volumetric fluorescence microscopy wi
 (meaning, we only train and test with one sample). I am interested in branching out to other modalities and further test and
 develop this framework: e.g. medical imaging modalities and holotomography.  
 
-![research interest](../images/mission.png)
+![research interest](../images/mission.jpeg)
 
 Where I was
 ======
@@ -31,8 +31,8 @@ my master's degree in Neural Systems and Computation at ETH Zürich and Universi
 supervision of Dr. [Marcel Oberlaender](https://mpinb.mpg.de/en/research-groups/groups/in-silico-brain-sciences/group-leader.html) at the Max Planck Institute 
 of Neurobiology of Behavior. 
 
-After finishing the master's degree, I returned to my home country (South Korea) to fulfil the mandatory military service. 
-However, I was fortunate enough to work in scientific research to fulfil the mandatory military service of three years.
+After finishing the master's degree, I returned to my home country (South Korea) due to conscription as a South Korean citizen. 
+I was fortunate enough to work in scientific research to fulfil the mandatory military service of three years.
 For the last three years, I worked as a research scientist under supervision of Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html)
 at the Korea Advanced Institute of Science and Technology. I was part of a multi-institutional initiative to lay technical foundations for 
 South Korea’s connectome project. As the project manager of my research division, I spearheaded the development of deep learning 
