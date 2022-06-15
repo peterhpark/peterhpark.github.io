@@ -2,7 +2,7 @@
 title: "Deep learning enables reference-free isotropic super-resolution for volumetric fluorescence microscopy"
 collection: publications
 permalink: /publication/park2022naturecomm
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Unsupervised learning method for 3D isotropic super-resolution without any external reference for training.'
 date: 2022-06-08
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-022-30949-6'
