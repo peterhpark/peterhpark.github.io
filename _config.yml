@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peter's World"
+title                    : "Peter Park"
 title_separator          : "-"
 name                     : &name "Peter Park"
 description              : &description "personal webpage for Peter Park"
