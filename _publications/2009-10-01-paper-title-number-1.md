@@ -19,4 +19,10 @@ planes. Using fluorescence confocal microscopy and light-sheet microscopy, we de
 not only enhances axial resolution but also restores suppressed visual details between the imaging planes and removes 
 imaging artifacts.
 
+![img1](../images/nature_comm_1.jpeg)
+![img2](../images/nature_comm_2.jpeg)
+![img3](../images/nature_comm_3.jpeg)
+![img4](../images/nature_comm_4.jpeg)
+![img5](../images/nature_comm_5.jpeg)
+
 [Download paper here](https://www.nature.com/articles/s41467-022-30949-6)
