@@ -18,9 +18,9 @@ of image data. Why use deep learning? When we image or measure something, data g
 mixture of many factors, which are often difficult to unravel. Deep learning is an effective and flexible solution 
 searching method for such tasks, especially ill-posed problems. So far, my research has been in fluorescence microscopy. 
 In my latest project, I have implemented a novel unsupervised learning method to achieve isotropic resolution for volumetric 
-fluorescence microscopy without any external references (meaning, we only train and test with one sample). I am interested 
-in branching out to other modalities and further testing and developing this framework: e.g., medical imaging modalities 
-and holotomography.
+fluorescence microscopy without any external references or prior information about the imaging conditions;
+we only train and test with one sample. I am interested in branching out to other modalities and further 
+testing and developing this framework: e.g., medical imaging modalities and holotomography.
 
 ![research interest](../images/mission.jpeg)
 
@@ -33,13 +33,13 @@ Dr. [Marcel Oberlaender](https://mpinb.mpg.de/en/research-groups/groups/in-silic
 at the Max Planck Institute of Neurobiology of Behavior. After finishing my master's degree, I returned to my home 
 country (South Korea) due to conscription as a South Korean citizen. I was fortunate enough to work in scientific 
 research to fulfill three years of mandatory military service. For the last three years, I have worked as a research 
-scientist at the Bio-Imaging, Signal Processing & Learning Lab with Prof.[Jong Chul Ye](https://bispl.weebly.com/professor.html) 
-at the Korea Advanced Institute of Science and Technology. I was part of a multi-institutional initiative to lay technical 
+scientist at the Bio-Imaging, Signal Processing & Learning Lab with Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html) 
+at the Korea Advanced Institute of Science and Technology (KAIST). I was part of a multi-institutional initiative to lay technical 
 foundations for South Korea’s connectome project. As the project manager of my research division, I spearheaded the 
 development of deep learning methods to enhance microscopy resolution and automate the segmentation of neuronal populations. 
 This project helped me mature into an independent researcher with an interdisciplinary background in neuroscience and deep learning. 
 
 Where I am
 ======
-I have successfully finished the military service, and I look forward to doing more research! I am planning to move back 
+I have successfully finished the military service and research projects at KAIST, and I look forward to doing more research! I am planning to move back 
 to Europe to pursue a doctoral program. If you know any PI who shares my research interest, please let me know!
