@@ -23,6 +23,7 @@ is indeed a dual formulation of an optimal transport problem that uses a special
 as a transport cost. Experimental results using simulated and real experimental data confirm the efficacy of the algorithm.
 
 [Download paper here](https://ieeexplore.ieee.org/document/9136890)
+
 ![img1](../images/ieee_tci_1.jpeg)
 ![img2](../images/ieee_tci_2.jpeg)
 
