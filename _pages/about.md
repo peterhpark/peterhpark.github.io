@@ -8,16 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the personal webpage of Hyoungjun "Peter" Park! 
+Welcome to the personal webpage of Peter Park! 
 
 What drives me
 ======
 I am a neuroscientist who is passionate about seeing beyond the physical limitations of our instruments to arrive 
 at a new biological discovery. To achieve this, I use deep learning to enhance the signal processing and reconstruction 
-of image data. Why use deep learning? When we image or measure something, data gets lost or distorted by a complex 
-mixture of many factors, which are often difficult to unravel. Deep learning is an effective and flexible solution 
+of image data. 
+
+Why use deep learning? When we image biological tissue, data gets lost or distorted by a complex 
+mixture of factors, which are often difficult to unravel. Deep learning is an effective and flexible solution 
 searching method for such tasks, especially ill-posed problems. So far, my research has been in fluorescence microscopy. 
-In my latest project, I have implemented a novel unsupervised learning method to achieve isotropic resolution for volumetric 
+In my latest project, I have implemented [a novel unsupervised learning method](https://peterhpark.github.io/publication/park2022naturecomm) 
+to achieve isotropic resolution for volumetric 
 fluorescence microscopy without any external references or prior information about the imaging conditions;
 we only train and test with one sample. I am interested in branching out to other modalities and further 
 testing and developing this framework: e.g., medical imaging modalities and holotomography.
@@ -42,4 +45,4 @@ This project helped me mature into an independent researcher with an interdiscip
 Where I am
 ======
 I have successfully finished the military service and research projects at KAIST, and I look forward to doing more research! I am planning to move back 
-to Europe to pursue a doctoral program. If you know any PI who shares my research interest, please let me know!
+to Europe to pursue a doctoral program. If you share my research interests, I will be happy to connect. 

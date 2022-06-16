@@ -7,7 +7,9 @@ date: 2022-06-08
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-022-30949-6'
 ---
-Volumetric imaging by fluorescence microscopy is often limited by anisotropic spatial resolution, in which the axial 
+Authors: **Hyoungjun Park**, Myeongsu Na, Bumju Kim, Soohyun Park, Ki Hean Kim, Sunghoe Chang, and Jong Chul Ye
+
+Abstract: Volumetric imaging by fluorescence microscopy is often limited by anisotropic spatial resolution, in which the axial 
 resolution is inferior to the lateral resolution. To address this problem, we present a deep-learning-enabled unsupervised 
 super-resolution technique that enhances anisotropic images in volumetric fluorescence microscopy. In contrast to the 
 existing deep learning approaches that require matched high-resolution target images, our method greatly reduces the 
