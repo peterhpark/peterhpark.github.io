@@ -36,7 +36,7 @@ Dr. [Marcel Oberlaender](https://mpinb.mpg.de/en/research-groups/groups/in-silic
 at the Max Planck Institute of Neurobiology of Behavior. After finishing my master's degree, I returned to my home 
 country (South Korea) due to conscription as a South Korean citizen. I was fortunate enough to work in scientific 
 research to fulfill three years of mandatory military service. For the last three years, I have worked as a research 
-scientist at the Bio-Imaging, Signal Processing & Learning Lab under guidance of Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html) 
+scientist at the Bio-Imaging, Signal Processing & Learning Lab under the guidance of Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html) 
 at the Korea Advanced Institute of Science and Technology (KAIST). I was part of a multi-institutional initiative to lay technical 
 foundations for South Korea’s connectome project. As the project manager of my research division, I spearheaded the 
 development of deep learning methods to enhance microscopy resolution and automate the segmentation of neuronal populations. 
