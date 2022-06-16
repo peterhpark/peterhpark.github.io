@@ -7,7 +7,7 @@ date: 2020-07-08
 venue: 'IEEE Transactions on Computational Imaging'
 paperurl: 'https://ieeexplore.ieee.org/document/9136890'
 ---
-Authors: Sungjun Lim*, Hyoungjun Park*, Sang-Eun Lee, Sunghoe Chang, Byeongsu Sim, and Jong Chul Ye
+Authors: Sungjun Lim*, **Hyoungjun Park***, Sang-Eun Lee, Sunghoe Chang, Byeongsu Sim, and Jong Chul Ye
 
 *: equal contribution
 
